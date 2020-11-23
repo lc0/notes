@@ -6,6 +6,9 @@ Resources that I looked up more than twice: for myself or to show other people
 - if data extracted from ex BQ, altair could have hard time plotting it
     * ex: `TypeError: Object of type 'date' is not JSON serializable`
     * could be fixed by explicitly converting `df['date'] = pd.to_datetime(df['date'])`
+- filtering before plotting
+    * single value: `.transform_filter(alt.datum.target == 'single-filter')`
+    * multiple values: `.transform_filter({'field': 'target', 'oneOf': ['foo', 'bar']})`
 - in order to convert value to %
     * `axis=alt.Axis(format='%')`
     * `alt.Tooltip('share:Q', format='.2%')`
