@@ -21,3 +21,6 @@ Resources that I looked up more than twice: for myself or to show other people
 
 ### Probability and stats
 - [An Intuitive and visual explanation of Bayes theorem by 3Blue1Brown](https://www.youtube.com/watch?v=HZGCoVF3YvM)
+
+## Misc
+- [Hand-drawn look for colaborative drawing](https://excalidraw.com)
