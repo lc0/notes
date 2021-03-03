@@ -24,3 +24,4 @@ Resources that I looked up more than twice: for myself or to show other people
 
 ## Misc
 - [Hand-drawn look for colaborative drawing](https://excalidraw.com)
+- [A tool for aligning times across timezones](https://www.worldtimebuddy.com/)
